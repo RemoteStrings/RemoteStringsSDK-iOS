@@ -1,0 +1,5 @@
+framework module RemoteStringsSDK {
+    umbrella header "RemoteStringsSDK.h"
+    export *
+    module * { export * }
+}

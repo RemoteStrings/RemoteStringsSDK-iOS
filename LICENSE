@@ -1,0 +1,148 @@
+# RemoteStringsSDK Binary License
+
+Copyright (c) 2025 RemoteStrings. All rights reserved.
+
+## Proprietary Binary License Agreement
+
+This license agreement ("License") is a legal agreement between you (either an individual or a single entity) and RemoteStrings for the RemoteStringsSDK binary framework ("the Software").
+
+By downloading, installing, copying, or otherwise using the Software, you agree to be bound by the terms of this License. If you do not agree to the terms of this License, do not install or use the Software.
+
+---
+
+## 1. Grant of License
+
+Subject to the terms and conditions of this License, RemoteStrings grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+- Install and use the Software in your iOS applications
+- Integrate the Software into applications that connect to RemoteStrings service
+- Distribute the Software as an embedded component of your applications
+- Use the Software for both personal and commercial purposes
+
+---
+
+## 2. Service Requirement
+
+**IMPORTANT:** Use of this Software requires:
+
+- A valid RemoteStrings platform token
+- An active RemoteStrings account (available at https://remotestrings.app)
+- Compliance with RemoteStrings Terms of Service
+- Active internet connection for initial setup and updates
+
+The Software is designed exclusively for use with the RemoteStrings service and may not function without it.
+
+---
+
+## 3. Restrictions
+
+You may **NOT**:
+
+1. **Reverse Engineer**: Decompile, reverse engineer, disassemble, or attempt to derive the source code of the Software
+2. **Modify**: Modify, adapt, translate, or create derivative works based on the Software
+3. **Redistribute Standalone**: Distribute or sublicense the Software as a standalone product
+4. **Remove Notices**: Remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices) contained within the Software
+5. **Competitive Use**: Use the Software to build a competitive or similar service to RemoteStrings
+6. **Bypass Service**: Attempt to use the Software without connecting to RemoteStrings service or bypass its authentication mechanisms
+
+---
+
+## 4. Source Code
+
+**Source code is NOT included** with this distribution and is NOT available for licensing. This License applies only to the pre-compiled binary XCFramework.
+
+For source code licensing inquiries, please contact: support@remotestrings.app
+
+---
+
+## 5. Intellectual Property
+
+The Software is licensed, not sold. RemoteStrings retains all right, title, and interest in and to the Software, including all intellectual property rights. This License does not grant you any rights to trademarks, service marks, or trade names of RemoteStrings.
+
+---
+
+## 6. Updates and Support
+
+- **Updates**: RemoteStrings may provide updates, patches, or new versions of the Software at its sole discretion
+- **Support**: Support is provided through RemoteStrings service documentation and support channels
+- **No Obligation**: RemoteStrings has no obligation to provide maintenance, support, updates, enhancements, or modifications
+
+---
+
+## 7. Disclaimer of Warranties
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+RemoteStrings does not warrant that:
+- The Software will meet your requirements
+- The Software will be uninterrupted, timely, secure, or error-free
+- Any errors in the Software will be corrected
+
+---
+
+## 8. Limitation of Liability
+
+IN NO EVENT SHALL REMOTESTRINGS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+## 9. Termination
+
+This License is effective until terminated. Your rights under this License will terminate automatically without notice if you fail to comply with any term(s) of this License.
+
+RemoteStrings may terminate this License at any time if:
+- You breach any terms of this License
+- Your RemoteStrings account is terminated or suspended
+- You fail to maintain an active RemoteStrings subscription (if required)
+
+Upon termination, you must:
+- Cease all use of the Software
+- Remove the Software from all applications and systems
+- Destroy all copies of the Software in your possession
+
+---
+
+## 10. Export Compliance
+
+You agree to comply with all applicable international and national laws that apply to the Software, including U.S. Export Administration Regulations, as well as end-user, end-use, and destination restrictions.
+
+---
+
+## 11. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of Turkey, without regard to its conflict of law provisions.
+
+---
+
+## 12. Privacy and Data Collection
+
+The Software may collect anonymous usage statistics and error reports to improve the service. For details, see the RemoteStrings Privacy Policy at https://remotestrings.app/privacy.
+
+---
+
+## 13. Entire Agreement
+
+This License constitutes the entire agreement between you and RemoteStrings regarding the Software and supersedes all prior or contemporaneous understandings and agreements, whether written or oral.
+
+---
+
+## 14. Modifications
+
+RemoteStrings reserves the right to modify this License at any time. Continued use of the Software after modifications constitutes acceptance of the modified License.
+
+---
+
+## Contact Information
+
+**RemoteStrings**
+- Website: https://remotestrings.app
+- Email: support@remotestrings.app
+- Documentation: https://remotestrings.app/docs
+
+For licensing questions, commercial inquiries, or source code access, please contact us at the email above.
+
+---
+
+**Version:** 1.0.0  
+**Last Updated:** October 12, 2025
+
