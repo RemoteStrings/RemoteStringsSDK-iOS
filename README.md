@@ -2,6 +2,12 @@
 
 This package allows you to easily integrate the [RemoteStrings](https://www.remotestrings.app) service into your iOS applications. It enables you to instantly update your remote string files and deliver them to users without re-publishing your app.
 
+## Minimum Requirements
+
+- iOS 13.0+
+- Swift 5.3+
+- Xcode 12.0+
+
 ## Features
 
 -   Update strings instantly and remotely.
