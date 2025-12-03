@@ -108,6 +108,35 @@ let greeting = RemoteStringsSDK.string("hello_user", arguments: [username])
 let message = RemoteStringsSDK.string("welcome", arguments: [name, age], default: "Welcome %@, you are %d years old")
 ```
 
+### 4. Handling Updates and Failures
+
+The SDK posts notifications to `NotificationCenter` when strings are successfully updated or when an update fails. You can observe these notifications to update your UI or handle errors.
+
+```swift
+import RemoteStringsSDK
+
+// Observe for successful updates
+NotificationCenter.default.addObserver(
+    forName: RemoteStringsSDK.didUpdateNotification,
+    object: nil,
+    queue: .main
+) { _ in
+    // Strings have been updated. You can reload your UI here.
+    print("Remote strings updated!")
+}
+
+// Observe for update failures
+NotificationCenter.default.addObserver(
+    forName: RemoteStringsSDK.didFailUpdateNotification,
+    object: nil,
+    queue: .main
+) { _ in
+    // The update process failed (network error, invalid bundle, etc.)
+    // You might want to log this or retry later if needed.
+    print("Failed to update remote strings.")
+}
+```
+
 That's it! You are now ready to manage your app's strings remotely.
 
 ## License

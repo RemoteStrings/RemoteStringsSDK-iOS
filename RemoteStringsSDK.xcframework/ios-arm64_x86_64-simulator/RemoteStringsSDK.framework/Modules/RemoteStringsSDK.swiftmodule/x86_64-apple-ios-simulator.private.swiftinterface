@@ -10,6 +10,8 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers final public class RemoteStringsSDK {
+  public static let didUpdateNotification: Foundation.Notification.Name
+  public static let didFailUpdateNotification: Foundation.Notification.Name
   public static func initialize(platformToken: Swift.String)
   public static func startSwizzling()
   public static func string(_ key: Swift.String) -> Swift.String

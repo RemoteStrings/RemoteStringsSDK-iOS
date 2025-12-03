@@ -2,7 +2,7 @@
 //  RemoteStringsSDK.h
 //  RemoteStringsSDK
 //
-//  Generated on Sun Nov 30 21:48:22 +03 2025
+//  Generated on Wed Dec  3 17:14:26 +03 2025
 //
 
 #import <Foundation/Foundation.h>
